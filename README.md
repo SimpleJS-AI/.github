@@ -10,14 +10,7 @@
   <p align="center">
     A simple JavaScript based machine learning library
     <br />
-    <a href="https://github.com/flug8/SimpleJS-lib/wiki"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://simplejs.ai">Visit Website</a>
-    ·
-    <a href="https://github.com/flug8/SimpleJS-lib/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/flug8/SimpleJS-lib/issues">Request Feature</a>
+    <a href="https://simplejs.ai/"><strong>Visit the Website »</strong></a>
   </p>
 </div>
 
